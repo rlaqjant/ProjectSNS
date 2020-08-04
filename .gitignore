@@ -2,3 +2,4 @@ WebContent/META-INF/
 .settings/
 .project
 .classpath
+build/
